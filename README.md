@@ -7,7 +7,7 @@
 - **Semestre:** 5
 - **Ano:** 2025.1
 
-# HÁ DEFINIR
+# Pet Shop
 
 > Inicialmente tem que ser sem padrões de projeto, apresentando:
 > - Forte acoplamento,
@@ -48,6 +48,14 @@
 ## Estrutura do Projeto
 
 ### Mal Estruturado
+```
+ifba-sistema-lista7/
+├── versao_inicial/
+|   ├── Pet.java
+|   └── PetShop.java
+|
+└── README.md
+```
 
 ### Bem Estruturado
 
