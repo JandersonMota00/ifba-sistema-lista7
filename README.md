@@ -58,6 +58,26 @@ ifba-sistema-lista7/
 ```
 
 ### Bem Estruturado
+```
+ifba-sistema-lista7/
+├── versao_refatorada/
+|   ├── model/
+|   |   └── Pet.java
+|   |
+|   ├── repository/
+|   |   ├── PetRepository.java
+|   |   └── PetInMemoryRepository.java
+|   |
+|   ├── service/
+|   |   └── PetService.java
+|   |
+|   ├── ui/
+|   |   └── ConsoleUI.java
+|   |
+|   └── PetShopApp.java
+|
+└── README.md
+```
 
 ## Diagrama UML
 
