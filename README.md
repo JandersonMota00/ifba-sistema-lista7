@@ -91,3 +91,6 @@ Depois:
 
 
 ## Documentação Técnica
+[Relatório Atv 7 Padrões.pdf](https://github.com/user-attachments/files/22051472/Relatorio.Atv.7.Padroes.pdf)
+
+
