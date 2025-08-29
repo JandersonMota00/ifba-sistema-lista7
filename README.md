@@ -82,7 +82,8 @@ ifba-sistema-lista7/
 ## Diagrama UML
 
 Antes:
-<img width="3840" height="4532" alt="Untitled diagram _ Mermaid Chart-2025-08-29-123404" src="https://github.com/user-attachments/assets/a4735862-ca69-436a-bfa8-59a6b08b7436" />
+<img width="2500" height="2950" alt="teste 1" src="https://github.com/user-attachments/assets/dad4648b-81e4-483b-a4a0-f9decbf10844" />
+
 
 
 Depois: 
